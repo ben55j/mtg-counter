@@ -1,7 +1,7 @@
 <script>
-    let score =25;
-    export  let name ="red";
-
+    export let score =25;
+    export let name ="red";
+     //test
     function increase(){
         score++;
     }
